@@ -1,0 +1,17 @@
+{
+  "CHANGELOG.md": "347da16dac1e6f85fcfad66ad36bafc6",
+  "Gemfile": "6a08ec57f18e97c4ead40a6529d05aa8",
+  "Gemfile.lock": "255b5813d929494ec2e6294a26e4c333",
+  "README.md": "5fdcfc3aee3f0a2dd527095e7b18428d",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "lib/puppet/feature/postgres.rb": "5703196a627dd466c796554292f86d2b",
+  "lib/puppet/parser/functions/collect_component_nodes.rb": "f43511611e2cda35b6a6a9561e66eed2",
+  "lib/puppet/parser/functions/collect_component_titles.rb": "0298c538d717e7aaec257ec0c6a7b072",
+  "lib/puppet/provider/database/postgresql.rb": "79670e8c3facf05c8d5df6a487dbe4e0",
+  "lib/puppet/provider/database/tcp.rb": "f5a7777a521a7bc5835e232cf7c88892",
+  "lib/puppet/provider/tcp.rb": "819a35bb3052e64a41771fb3e4fabf44",
+  "lib/puppet/type/database.rb": "b4d0cfa5382d881b56bdd52bcc5c197d",
+  "lib/puppet/type/http.rb": "dcc16b518d901c917c0761e413d672a8",
+  "metadata.json": "a40afe05815d02de391f6f79ba76d5f6",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc"
+}

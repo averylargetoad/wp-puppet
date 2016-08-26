@@ -1,0 +1,20 @@
+{
+  "CHANGELOG.md": "347da16dac1e6f85fcfad66ad36bafc6",
+  "Gemfile": "6a08ec57f18e97c4ead40a6529d05aa8",
+  "Gemfile.lock": "255b5813d929494ec2e6294a26e4c333",
+  "Puppetfile": "6204ce70a6ee0e446bb24325931eaa71",
+  "README.md": "f189627a50719c7daffc18b31e52460b",
+  "Rakefile": "3044cde52b8cd8508c8400076a66ef11",
+  "manifests/database.pp": "9ada26ff1dade783ff8f52cc28e74d2c",
+  "manifests/database_profile.pp": "623adcf49c053ab7435d46ed67edef26",
+  "manifests/init.pp": "002d828fbd7b978a259e6944e590da68",
+  "manifests/lb.pp": "00b8ccfa1bd582b01f96903927c859ee",
+  "manifests/ruby.pp": "b66f8890bc275d0315a93fb0d64cbfe5",
+  "manifests/simple.pp": "3be19ea9809a1bd5836ba30ba9fcde98",
+  "manifests/web.pp": "a7a4481a37253230b7f181e6e493d762",
+  "manifests/web_profile.pp": "f9ff3ffd26442d77ddba4f6a350e9925",
+  "metadata.json": "3edae94f53b0b456e01d82aaa4ab5c28",
+  "spec/classes/init_spec.rb": "36a15db199fc8d12aef05302667a5f25",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "010e7efedb41589ff43ddcbeee467247"
+}
