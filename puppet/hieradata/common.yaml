@@ -1,0 +1,26 @@
+---
+classes: [ 'apps', 'roles', 'profiles' ]
+
+domain: 'vagrant.test'
+bridge: 'Intel(R) 82578DM Gigabit Network Connection'
+
+applications: 
+  wp:
+  - node_role: "ws"
+    num_nodes: 2
+    vm_mb_ram: 512
+    ports_fwd: 
+      - guest: 80
+        host: 8080 
+  - node_role: "db"
+    num_nodes: 1
+    vm_mb_ram: 768
+    ports_fwd: []
+  - node_role: "ha"
+    num_nodes: 1
+    vm_mb_ram: 512
+    ports_fwd:
+      - guest: 80
+        host:  8880
+    public_ip: true
+...
